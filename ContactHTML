@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href='https://fonts.googleapis.com/css?family=Raleway:400, 600' rel='stylesheet' type='text/css'>
+  <link rel='stylesheet' href='style.css'/>
+<title>James's Website, Contact page</title>
+</head>
+<body>
+      <div class="header">
+      <div class="container">
+<div class="topnav" id="myTopnav">
+  <a href="#home">Home</a>
+  <a href="#">Achievements</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
+      </div>
+    </div>
+        <div class="jumbotron">
+      <div class="container">  
+        <div class="main">
+
+        <h1>Contact</h1>
+          
+        </div>
+      </div>
+    </div>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaT84QYCZRqPNqqXoo8iP3d5vB9xsmifR7ITO3-uagVGdInJ6V1g">
+  
+  <form id="form1" class="forms" action="MAILTO:abc@gmail.com" method="post" enctype="text/plain">
+            <fieldset>
+              <ol>
+                <li class="form-row text-input-row">
+                  <label>Name*</label>
+                  <input type="text" name="name" value="" class="text-input required" title="" />
+                </li>
+                <li class="form-row text-input-row">
+                  <label>Mobile*</label>
+                  <input type="text" name="Mobile" value="" class="text-input required" title="" />
+                </li>
+                <li class="form-row text-area-row">
+                  <label>message*</label
+                  <textarea name="message" style="height:50px" class="text-area required"></textarea>
+                </li>
+                <li class="form-row hidden-row">
+                  <input type="hidden" name="hidden" value="" />
+                </li>
+                <li class="button-row">
+ 
+          <input id="Submit1" type="submit" value="submit" class="btn-submit" />
+                </li>
+              </ol>
+              <input type="hidden" name="v_error" id="v-error" value="Required" />
+              <input type="hidden" name="v_email" id="v-email" value="Enter a valid email" />
+            </fieldset>
+          </form>
+
+ 
+
+         <div class="supporting">
+  </div>
+      <div class="container">
+      
+       <div class="col">
+        <h1>Phone Number</h1>
+        <p>07713353156</p>
+       </div>
+
+        <div class="col">
+        <h1>email</h1>
+        <p>jknowles715@gmail.com</p>
+       </div>
+        
+      <div class="clearfix"></div>
+    </div>
+
+    <div class="footer">
+      <div class="container">
+        <p>&copy; James Knowles 2017</p>
+      </div>
+    </div>
