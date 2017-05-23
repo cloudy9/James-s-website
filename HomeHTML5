@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href='https://fonts.googleapis.com/css?family=Raleway:400, 600' rel='stylesheet' type='text/css'>
+  <link rel='stylesheet' href='style.css'/>
+<title>James's Website</title>
+</head>
+<body>
+      <div class="header">
+      <div class="container">
+<div class="topnav" id="myTopnav">
+  <a href="#home">Home</a>
+  <a href="#">Achievements</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
+      </div>
+    </div>
+        <div class="jumbotron">
+      <div class="container">  
+        <div class="main">
+           <a href="https://docs.google.com/document/d/1QF7_4HvwN9GZzpqu-xMK9tO9pbbr9SLY_0pfnc-jwXQ/edit?usp=sharing"><img src="https://www.gradslikeme.com/publicSiteAssets/images/icons/curriculum2.png"></a>
+
+        <h1>James Knowles</h1>
+          
+        </div>
+      </div>
+    </div>
+ 
+<div class="col">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScqeU2KOQHkT1HJAScRetF7UnM0mWapAty0toMnvJA96UMn14n">
+  <h1>UPDATES!!!</h1>
+  <p>Started a new 8 week course on Codecademy.</p>
+  <p2>started in 3 new leagues on video games.</p2>
+  <p>coded this website.</p>  
+  
+  </div>
+
+         <div class="supporting">
+  </div>
+      <div class="container">
+        <div class="col">
+        <h1>Contact</h1>
+        <p>This page will tell you about how to contact me.</p>
+          
+        </div>
+        <div class="col">
+       
+        <h2>About</h2>
+        
+        <p>This page will tell you about me, my life, my ambitions and how I think i have come to this.</p>
+          
+      </div>
+        
+         <div class="col">
+       
+        <h3>Achievements</h3>
+        
+        <p>This page will show you all of my achievements and what they have been in.</p>
+          
+      </div>
+      
+      <div class="clearfix"></div>
+    </div>
+
+    <div class="footer">
+      <div class="container">
+        <p>&copy; James Knowles 2017</p>
+      </div>
+    </div>
+
+
+</body>
+</html>
