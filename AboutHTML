@@ -25,7 +25,10 @@
           
         </div>
          <br />
-        Asking question <span id="NumberAsked">1</span> of 10 with <span id="NumberCorrect">0</span> answers correct</p>
+
+      </div>
+    </div>
+          Asking question <span id="NumberAsked">1</span> of 10 with <span id="NumberCorrect">0</span> answers correct</p>
     <p>
         <span id="TriviaQuestion">???</span>
     </p>
@@ -144,12 +147,19 @@
         }
  
     </script>
-
-    <div class="game">
-        
-    </div>
-      </div>
-    </div>
+  <div class="game">
+<head>
+        <title>HTML5 Tetris</title>
+        <link rel='stylesheet' href='style.css' />
+    </head>
+    <body>
+        <audio id="clearsound" src="sound/pop.ogg" preload="auto"></audio>
+        <canvas width='300' height='600'></canvas>
+        <script src='js/tetris.js'></script>
+        <script src='js/controller.js'></script>
+        <script src='js/render.js'></script>
+    </body>
+  </div>
 
 
 
@@ -162,20 +172,17 @@
       
        <div class="col">
         <h1>School Life</h1>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkAmNunwJH_WIZspEzRNAgIdh9AFO4sF_B_5hpzh23Wp48EGuU">
         <p>as my school life has been one of the best experiences in my life, my school career really picked up when my gcse's began becasue of the freedom of the lessons and as i chose business studies, CIDA and Computer Science these options really helped expand my options in life as my work experience is work at a software solutions company computer science is the main lesson that helps me with that.
         </p>
        </div>
 
         <div class="col">
         <h1>coding life</h1>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJB6_iMj1fmrn-oVKUByFyHFmh3j2GjtZHISeJvGu7_yrAOkz7">
         <p>the first moment i saw a piece of code i was in year 9 and my teacher showed us a few lines of code in python and i immedately asked him where i could learn more of this and he showed me the codecademy website. i signed up and i started off with small stuff e.g. GIT or SQL then once i completed the tasks for those I moved onto the harder options first was python, then i went onto html and css then i started to learn javascript.</p>
        </div>
 
        <div class="col">
         <h1>personal life</h1>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCnvmwEt8HyKqQIry8XpYrCjXRJCnDIJA1VER4czMrPFilmEH">
         <p>In my personal life my favourite thing to do is Play video games all on my pc On one game i have a ompetitive team where we play atleats three times a week and we all have a lot of fun. But my main passtime is coding i just find it very theraputical its just you and your lines of code that you mould to be your perfect program. </p>
       </div>
         
