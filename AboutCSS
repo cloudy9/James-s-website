@@ -5,7 +5,7 @@ canvas {
 }
 
 html { 
-  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyxZNzZ70UZ7dURJQUMpyUAbn-FmLMZ9Y5MJzkMeKgq2qiWe9UJA) no-repeat center center fixed; 
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHy-eeACbqm7P3W2VI0NK9myMG42p6x6ZamapXbpuCqDwFLmh) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
